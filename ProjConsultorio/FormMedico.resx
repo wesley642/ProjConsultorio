@@ -117,7 +117,51 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="medicosBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1245, 17</value>
+  </metadata>
+  <metadata name="dBConsultorioMedico.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1075, 17</value>
+  </metadata>
+  <metadata name="dBConsultorioMedico.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1075, 17</value>
+  </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnDeletar.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        xAAADsQBlSsOGwAAAqFJREFUaEPt2k2oDWEcx/HrreT9PRQbKVmSsqBQFBspZYsiWRCSsLg7WSiRjUiE
+        smAlJDvZeMnLhliQBXlX3snb9zt3nnJuz5x7zD33nrn1/OrTPc9z5s48/zkz58x55rT1QKbjIB7iOz7j
+        FnZjNCqdrfiGPwVeYDEqmZ34DQf6CcexCdtxAT/hcxa4CJXKLIQB3sQUdM58vIHLPMMwVCZnEQ6R8XYU
+        ZCnCq7TZjp5Mf0zC1C5Mgyeqg9qX99XzAC577Z++esbhvzIUDuQtwt5qJcfwGNswEHXj4K8jtqIqOI+6
+        RbjnXdCq92M2ZrTYXJxEOBp8JaLxmPewcaGjdlQsl+HY7metSCYiVLncjorFzxTH9iNrRTISoYAtdlQs
+        R+DYXmetgtxGWGiOHRXJSrjnHdtpO4qyDOET9Rc83vxkbaUnCEfGB3hi181qeC3jP1SJn/IL0FAmYCMO
+        4XCLHcBaDEdKn8sJvMe8rNW78a38IzZkrZJ5CU8gv6x0jsfkEgzJWvF4GeBXzKJ4tbsQXgV0zkW4bS/V
+        S+cVXMmurFWbY/A5T/RYHLxvf771DbYjkntwHWuyVm0uwefOZa2SqVdAVxtYAZ9X0TV9d9bfUFIBuVRA
+        2aQCcqmAskkF5FIBZZMKyKUCyiYVkEsFlE0qIJcKKJs+X8BTuJI9Was29vml3WnvWJzD/II7GGBHJM75
+        ezM8NmXoPTS3fSprlUy4qeDKYhmT/y2KUy+DOh5GY2GjOh7WZAQsvujVaTjOj7oS97Qz172VvXC7zpDP
+        tKNsnLQKh9E79PTPBPrBGTkH7jbPoNvxDvtXhFfiCvz5wLomWo923EW4F/AIY9GUeJI9hyvuDVcxGU2N
+        99B24AacdA17qhk8ZPwdhW+dqxCbK42kre0vGBxXFj/ccVYAAAAASUVORK5CYII=
+</value>
+  </data>
+  <metadata name="dbConsultorioDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="dbConsultorioDataSetBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>189, 17</value>
+  </metadata>
+  <metadata name="dbConsultorioEspecialidadeSelect.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>440, 17</value>
+  </metadata>
+  <metadata name="especialidadsBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>675, 17</value>
+  </metadata>
+  <metadata name="especialidadsTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>878, 17</value>
+  </metadata>
+  <metadata name="medicosTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 56</value>
+  </metadata>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAYAAAAAAAEAIACJDwAAZgAAAICAAAABACAAKAgBAO8PAABAQAAAAQAgAChCAAAXGAEAMDAAAAEA

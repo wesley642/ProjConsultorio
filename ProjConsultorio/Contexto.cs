@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProjConsultorio.Classes;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -14,7 +15,6 @@ namespace ProjConsultorio
 
         }
 
-
         public DbSet<Consulta> ObjetoConsulta { get; set; }
 
         public DbSet<Medico> ObjetoMedico { get; set; }
@@ -22,6 +22,8 @@ namespace ProjConsultorio
         public DbSet<Paciente> ObjetoPaciente { get; set; }
 
         public DbSet<Especialidad> ObjetoEspecialidade { get; set; }
+
+        public DbSet<ManutUser> ObjetoManutUser { get; set; }
 
 
     }

@@ -18,3 +18,17 @@ C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultor
 C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.FormEspecialidade.resources
 C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.FormMedico.resources
 C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.FormPaciente.resources
+C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.Migrations.banco1.resources
+C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.Migrations.banco2.resources
+C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.FormLogin.resources
+C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.Migrations.banco3.resources
+C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.Migrations.banco4.resources
+C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.Migrations.banco5.resources
+C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.Migrations.banco6.resources
+C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.Migrations.banco7.resources
+C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.Migrations.banco8.resources
+C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.Migrations.banco9.resources
+C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.Migrations.Cuzin.resources
+C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.Migrations.BancoUsuario.resources
+C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.FormManutUsuario.resources
+C:\Programação TECNICO\ProjConsultorio\ProjConsultorio\obj\Debug\ProjConsultorio.FormLoginADM.resources
